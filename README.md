@@ -17,8 +17,8 @@
         <strong>Python, APIs, and lightweight web tools</strong>.
       </p>
       <p>
-        I help turn repetitive manual work, disconnected tools, and messy data
-        into reliable workflows that are easier to operate and maintain.
+        I turn repetitive work, disconnected tools, and messy data into
+        reliable workflows that are easier to operate and maintain.
       </p>
       <p>
         <strong>Available for fixed-scope automation projects.</strong><br />
@@ -53,28 +53,28 @@
 
 <p align="center">
   <strong>Email:</strong> vinzic27@gmail.com<br />
-  <em>For a faster assessment, include your current workflow, sample input, and desired output.</em>
+  <em>Include your current workflow, sample input, and desired output for a faster assessment.</em>
 </p>
 
 <br />
 
-<h2 align="center">What I Automate</h2>
+<h2 align="center">What I Build</h2>
 
 <p align="center">
-  Repetitive Business Workflows • Data Collection & Processing • API Integrations<br />
+  Workflow Automation • Data Collection & Processing • API Integrations<br />
   Lead Research & Enrichment • Scheduled Reports • Lightweight Internal Tools
 </p>
 
 <br />
 
-<h2 align="center">Selected Work</h2>
+<h2 align="center">Flagship Projects</h2>
 
-### [Trace](https://github.com/vinzicc/trace) — AI-Qualified B2B Lead Datasets
+### [Trace](https://github.com/vinzicc/trace) — B2B Lead Intelligence Pipeline
 
-A lead intelligence pipeline that searches public business information, removes duplicate domains, crawls useful pages, extracts public contact details and buying signals, scores leads, and exports structured CSV/XLSX datasets.
+A full-stack pipeline that searches public business information, filters and deduplicates domains, extracts public contact details and buying signals, scores leads, and exports structured CSV/XLSX datasets.
 
-- AI-assisted enrichment with deterministic fallback when model providers fail
-- Public contact and business-signal extraction
+- AI-assisted enrichment with deterministic fallback
+- Contact and business-signal extraction
 - Lead scoring, filtering, packaging, and spreadsheet-safe exports
 - Dashboard for running jobs, reviewing results, and creating dataset packages
 
@@ -84,14 +84,38 @@ A lead intelligence pipeline that searches public business information, removes 
 
 ### [ConvertScout](https://github.com/vinzicc/convertscout) — Lead Opportunity & Outreach Workspace
 
-A local workspace for importing leads, cleaning contact data, finding website conversion gaps, scoring business opportunities, generating Indonesian outreach drafts, tracking manual outreach, and exporting filtered lead lists.
+A local workspace for importing leads, cleaning contact data, identifying website conversion gaps, scoring opportunities, generating Indonesian outreach drafts, tracking manual outreach, and exporting filtered lead lists.
 
 - Flexible CSV import with normalization and duplicate handling
 - Website audits for conversion and contact-flow issues
 - Opportunity scoring and short outreach-message generation
-- Compliance-focused manual workflow with no automatic outreach sending
+- Compliance-focused workflow with no automatic outreach sending
 
 **Stack:** Python, FastAPI, Next.js, TypeScript, SQLite
+
+<br />
+
+<h2 align="center">Engineering Prototype</h2>
+
+### [Vanta Intelligence](https://github.com/vinzicc/vantaintel) — Evidence-Based Website Opportunity Scanner
+
+A deterministic internal dashboard for scanning small sets of public business websites, identifying evidence-backed conversion issues, scoring opportunities, tracking review status, and exporting qualified leads.
+
+- Profile-specific website analysis with evidence, confidence, and severity
+- Input validation, request timeouts, and conservative crawling limits
+- MongoDB persistence, CSV import/export, and spreadsheet-injection protection
+- Type-check, lint, test, and production-build scripts
+
+**Stack:** Next.js, TypeScript, MongoDB, Zod, Vitest
+
+<br />
+
+<h2 align="center">Service Experiment</h2>
+
+<p align="center">
+  <a href="https://github.com/vinzicc/vantaflow"><strong>Vantaflow</strong></a> —
+  an async AI search visibility audit landing page for B2B SaaS teams.
+</p>
 
 <br />
 
@@ -99,8 +123,8 @@ A local workspace for importing leads, cleaning contact data, finding website co
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=python,go,fastapi,typescript,nextjs,react,postgres,supabase,docker,git,linux"
-    alt="Python, Go, FastAPI, TypeScript, Next.js, React, PostgreSQL, Supabase, Docker, Git, and Linux"
+    src="https://skillicons.dev/icons?i=python,fastapi,typescript,nextjs,react,postgres,supabase,git,linux"
+    alt="Python, FastAPI, TypeScript, Next.js, React, PostgreSQL, Supabase, Git, and Linux"
   />
 </p>
 
@@ -112,7 +136,7 @@ A local workspace for importing leads, cleaning contact data, finding website co
   <tr>
     <td width="25%" align="center" valign="top">
       <strong>1. Define</strong><br />
-      Map the current workflow, constraints, input, and expected output.
+      Map the workflow, constraints, input, and expected output.
     </td>
     <td width="25%" align="center" valign="top">
       <strong>2. Build</strong><br />
@@ -128,24 +152,6 @@ A local workspace for importing leads, cleaning contact data, finding website co
     </td>
   </tr>
 </table>
-
-<br />
-
-<h2 align="center">GitHub Activity</h2>
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vinzicc&show_icons=true&theme=github_dark&hide_border=true&border_radius=6"
-    height="150"
-    alt="Kevin's GitHub statistics"
-  />
-  &nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinzicc&layout=compact&langs_count=6&theme=github_dark&hide_border=true&border_radius=6"
-    height="150"
-    alt="Kevin's most used languages"
-  />
-</div>
 
 <br />
 
